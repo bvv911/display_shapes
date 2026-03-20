@@ -1,0 +1,10 @@
+﻿---
+BasedOnStyle: Google
+BreakBeforeBraces: Allman
+Language: Cpp
+Standard: Cpp11
+IncludeBlocks: Merge
+SpacesInLineCommentPrefix:
+  Minimum: 0
+  Maximum: 1
+...
